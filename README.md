@@ -6,7 +6,7 @@ Generating images using the most famous model, DALL.E, by integrating OpenAI API
 
 1- Sign up for [OpenAI](https://auth0.openai.com/u/signup/identifier?state=hKFo2SBvSy02UTZIXzJqSm1OREl2UnY5OTljc1haMl9mb21GdKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIFVyU1BZaDJhOGR0NUlSdU5PSENPOHJpcHVOWU5BRXFpo2NpZNkgRFJpdnNubTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0Q)
 
-2- Generate
+2- Generate your secret API-key using the api-key generator in this [link](https://beta.openai.com/account/api-keys)
 
 3- Refer to this [Notebook](https://github.com/OmarAlkousa/DALLE-using-OpenAI-API/blob/d60296d9ffee198830fc3992143900d42f3ec322/OpenAI_API_DALLE.ipynb) and paste your secret API-key into **my_api_key** variable.
 
